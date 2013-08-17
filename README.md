@@ -18,9 +18,9 @@ Or, if you have the Xcode command line tools installed, use 'make install'
 
 ### Downloads:
 
-Downloads are available on Google Code:
+Downloads (for the binary) are available here:
 
-link TBD
+https://github.com/RehabMan/OS-X-blinkscreen/raw/master/blinkscreen
 
 
 ### Build Environment
