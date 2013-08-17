@@ -34,6 +34,6 @@ No other build environment is supported.
 
 Please use the following threads on tonymacx86.com for feedback, questions, and help:
 
-http://www.tonymacx86.com/hp-probook/96785-work-around-4x30s-screen-brightness.html?highlight=blinkscreen
+http://www.tonymacx86.com/hp-probook/96785-work-around-4x30s-screen-brightness.html
 
 
