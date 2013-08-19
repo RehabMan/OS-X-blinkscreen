@@ -22,6 +22,10 @@ Downloads (for the binary) are available here:
 
 https://github.com/RehabMan/OS-X-blinkscreen/raw/master/blinkscreen
 
+Similarly, the plist is available here:
+
+https://github.com/RehabMan/OS-X-blinkscreen/raw/master/org.rehabman.blinkscreen.plist
+
 
 ### Build Environment
 
